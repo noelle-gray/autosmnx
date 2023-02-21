@@ -1,0 +1,8 @@
+*.ipynb*
+3.9
+cache
+open
+env
+/osmnx_main/__pycache__
+osmnx_main/__pycache__
+obsolete/
